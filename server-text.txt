@@ -36,7 +36,7 @@ sets locale "root-AQ"
 #sets banner_connecting "https://url.to/image.png"
 
 # Set your server's hostname. This is not usually shown anywhere in listings.
-sv_hostname "Ja ae Tua Eang"
+sv_hostname "จ๊ะเอ๋ตัวเอง!!"
 
 # Set your server's Project Name
 sets sv_projectName "Serv for dev"
@@ -48,7 +48,7 @@ sets sv_projectDesc "Developer will made great Five M Server  Wait for a month P
 #exec server_internal.cfg
 
 # Loading a server icon (96x96 PNG file)
-#load_server_icon myLogo.png
+load_server_icon Logo.png
 
 # convars which can be used in scripts
 set temp_convar "Ja ae Tuaeng!"
